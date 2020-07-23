@@ -2,15 +2,7 @@
 <html lang="{{ .Site.LanguageCode }}">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173415890-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-173415890-1');
-</script>
+  </script>
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
   <meta charset="UTF-8">
@@ -53,6 +45,15 @@
   {{- if not .Site.IsServer -}}
       {{ template "_internal/google_analytics_async.html" . }}
   {{- end -}}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173415890-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173415890-1');
+</script>
 </head>
 
 <body>

@@ -4,7 +4,7 @@ date: 2020-07-23T18:20:59+01:00
 slug: ""
 description: "A Short Welcome to this new journey"
 keywords: [Blog]
-draft: true
+draft: false
 tags: [Blog]
 math: false
 toc: false

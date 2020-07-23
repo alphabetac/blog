@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Henry Johnston-Ellis"
 languageCode = "en-uk"
-baseURL = "https://www.henryjohnstonellis.co.uk"
+baseURL = "https://www.henryjohnstonellis.co.uk/"
 copyright = "© 2020"
 
 # Add your Disqus shortname here.

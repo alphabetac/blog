@@ -1,5 +1,5 @@
 ---
-heading: "Hi, I'm Henry"
+heading: "Henry Johnston-Ellis"
 subheading: "data analysis | political comment"
 #handle: "hugo-theme-codex"
 ---

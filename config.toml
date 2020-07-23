@@ -52,22 +52,22 @@ copyright = "© 2020"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "home"
-  name = "home"
-  title = "Home"
-  url = "/"
-
-[[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/about"
+  url = "/"
 
-[[menu.main]]
-  identifier = "articles"
-  name = "articles"
-  title = "Articles"
-  url = "/articles"
+# [[menu.main]]
+#  identifier = "about"
+#  name = "about"
+#  title = "About"
+#  url = "/about"
+
+# [[menu.main]]
+#  identifier = "articles"
+#  name = "articles"
+#  title = "Articles"
+#  url = "/articles"
 
 [[menu.main]]
   identifier = "blog"

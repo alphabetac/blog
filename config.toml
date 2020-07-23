@@ -11,7 +11,7 @@ copyright = "© 2020"
 # disqusShortname = ""
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = ""
+googleAnalytics = "UA-173415890-1"
 
 # Optional params
 [params]
@@ -57,6 +57,12 @@ copyright = "© 2020"
   title = "About"
   url = "/"
 
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
 # [[menu.main]]
 #  identifier = "about"
 #  name = "about"
@@ -68,9 +74,3 @@ copyright = "© 2020"
 #  name = "articles"
 #  title = "Articles"
 #  url = "/articles"
-
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"

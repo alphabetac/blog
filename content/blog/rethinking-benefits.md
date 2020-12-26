@@ -1,8 +1,8 @@
 ---
-title: "A Short Introduction"
-date: 2020-07-23T18:20:59+01:00
+title: "Rethinking Benefits"
+date: 2020-12-26T18:20:59+01:00
 slug: ""
-description: "A Short Welcome to this new journey"
+description: "Building Welfare that Works"
 keywords: [Blog]
 draft: false
 tags: [Blog]

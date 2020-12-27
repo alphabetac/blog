@@ -16,7 +16,7 @@ The EU and the UK have—at last—successfully concluded negotiations. From the
 
 Perhaps it is Ursula von der Leyen who is closest to understanding the position in which the European world (and I include—perhaps controversially—the UK in this) finds itself on the brink of a New Year. She quoted T.S. Eliot's *Little Gidding*:
 
-> "What we call the beginning is often the end/And to make an end is to make a beginning./The end is where we start from."
+> *"What we call the beginning is often the end/And to make an end is to make a beginning./The end is where we start from."*
 
 Brexit does indeed mark the formal end of an extraordinary relationship that began with Britain's accession to the European Economic Community in 1973. Nevertheless, as with all relationships, nothing is ever so simple as merely leaving. As a country, we embark on a new phase as a country—the United Kingdom will for the first time in history become an independent nation. We have 'Taken Back Control', 'Got Brexit Done', and probably achieved another host of equally vapid, trite three-letter slogans. The question that we are now faced with is perhaps as profound as any we have asked ourselves since 1997—what is the United Kingdom? Brexit is and always was a question fundamentally of identity; our country's mid-life crisis. Where some middle-aged men might purchase a green Mercedes or a set of golf clubs, we have decided to leave the European Union. Unlike adopting new pastimes, however, the consequences of our decision have significantly more profound and far-reaching consequences than extra space taken up in the garage or living room.
 

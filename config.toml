@@ -13,6 +13,10 @@ copyright = "© 2020"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "UA-173415890-1"
 
+# Fonts:
+# googlefonts = ["Lato"]
+# fontbody = 'Lato'
+
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here:
@@ -21,7 +25,7 @@ copyright = "© 2020"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   # twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/alphabetac"
+  # github = "https://github.com/alphabetac"
   # email = "mailto:<your email>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"

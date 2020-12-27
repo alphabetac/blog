@@ -12,8 +12,7 @@ toc: false
 feature_image: "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3150&q=80"
 ---
 
-![European Flag]
-(https://images.unsplash.com/photo-1586879070755-b560b8aa4b8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2798&q=80)
+![European Flag](https://images.unsplash.com/photo-1586879070755-b560b8aa4b8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2798&q=80)
 
 The EU and the UK have—at last—successfully concluded negotiations. From the Brexit referendum that took place on the 23rd June 2016 to the announcement of the "EU-UK Trade and Cooperation Agreement" on Christmas Eve, four years, six months and one day passed. It is very easy to look back upon these last four-and-a-half years, gasp at the events that took place and sigh about their consequences; to see this new agreement as the *coup de grace* of the relationship between the EU and the UK.
 

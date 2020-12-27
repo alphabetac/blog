@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Benefits"
-date: 2020-12-26T18:20:59+01:00
+date: 2020-12-26
 slug: ""
 description: "Building Welfare that Works"
 keywords: [Blog]
@@ -13,7 +13,7 @@ feature_image: "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?ixi
 
 The Covid-19 crisis has thrown into sharp relief the effects of sustained cuts to essential services, particularly within health and social care. 10 years of austerity has placed services, such as the NHS, in an exceptionally difficult position, now that they are faced with battling a serious health crisis. Alongside the profound health impacts that Covid-19 has brought to the UK, the economic impact has been record-breaking. The shock brought about by the drop in consumer confidence and the government lock down caused GDP to fall by 24.5% from February to May 2020. According to a report by McKinsey, around 7.6 million jobs (equivalent to 24% of the UK workforce) are at risk as a result of Covid-19 lockdowns, with those on lower incomes the most at risk. Their mid-point scenario would see the rate of unemployment more than double from 4% in February 2020 to 9% by the end of 2020.
 
-This presents a stark picture of the likely future of work in the United Kingdom. The implications of these economic threats are very real—higher rates of child poverty, higher rates of suicide, a greater usage of food banks. The last financial crisis heralded a decade of stagnation and austerity that hollowed out many of the nation's public services, reduced real wages by 3% [4] and increased child poverty by 38%. To prevent similar impacts of this latest (and significantly bigger) economic crisis, immediate, decisive and radical action is required to mitigate the worst effects of such monumental challenges.
+This presents a stark picture of the likely future of work in the United Kingdom. The implications of these economic threats are very real—higher rates of child poverty, higher rates of suicide, a greater usage of food banks. The last financial crisis heralded a decade of stagnation and austerity that hollowed out many of the nation's public services, reduced real wages by 3% and increased child poverty by 38%. To prevent similar impacts of this latest (and significantly bigger) economic crisis, immediate, decisive and radical action is required to mitigate the worst effects of such monumental challenges.
 
 In the face of these threats, ensuring the safety net is sufficiently robust to protect people from the instability and uncertainty of the economy post-Covid must be one of the cornerstones of any responsible economic policy. A bolstered safety net, in combination with a robust programme of job creation (such as that championed by supporters of the green new deal) would give certainty to workers and boost the economy. However, for many years reforms to the welfare system have focused on demonising welfare and its claimants. Headlines chastising 'scroungers' for living off the backs of others have only encouraged governments to adopt policies that treat welfare claimants even more harshly.
 

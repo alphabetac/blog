@@ -1,5 +1,5 @@
 ---
 heading: "Henry Johnston-Ellis"
-subheading: "data analysis | political comment"
+subheading: "politics | economics"
 #handle: "hugo-theme-codex"
 ---

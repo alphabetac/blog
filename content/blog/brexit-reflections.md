@@ -1,7 +1,7 @@
 ---
 title: "Four Years, Six Months and Three Days"
 subtitle: "By Christ, What do We Do Now?"
-date: 2020-12-28
+date: 2020-12-27
 slug: ""
 description: ""
 keywords: [Blog]

@@ -3,7 +3,7 @@ title: "Rethinking Benefits"
 date: 2020-08-03
 slug: ""
 description: "Building Welfare that Works"
-keywords: [Benefits, Covid-19, Austeritys]
+keywords: [Benefits, Covid-19, Austerity]
 draft: false
 tags: [Benefits, Covid-19, Austerity]
 math: false

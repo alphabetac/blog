@@ -1,16 +1,20 @@
 ---
 title: "A Short Introduction"
-date: 2020-07-23T18:20:59+01:00
-slug: ""
+# date: 2020-07-23T18:20:59+01:00
+# slug: ""
 description: "A Short Welcome to this new journey"
 keywords: [Blog]
-draft: false
+draft: true
 tags: [Blog]
-math: false
-toc: false
+# math: false
+toc: true
 ---
 
+## Introducing Myself
+
 Hello Dearest Reader! My name is Henry, and I am a Philosophy, Politics and Economics student at UCL It is wonderful that you have stumbled down the rabbit hole that has brought you to this blog, a repository for my analysis of and reflections on a wide range of current events and issues.
+
+## The Purpose of this Website
 
 If you are wondering why I made the decision to build a website and write a blog then allow me to explain (if you aren’t wondering, then please do continue to the next article).  In 2020 the news and media landscape is as diverse as it ever has been; however, I believe that finding paywall free, high-quality, rigorous analysis can often be far too difficult. My goal in establishing this blog is to contribute to important debates with some analysis of my own, but more importantly providing an entry point into more in-depth discussions and debates.
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intros on Henry Johnston-Ellis</title>
+    <link>https://www.henryjohnstonellis.co.uk/intro/</link>
+    <description>Recent content in Intros on Henry Johnston-Ellis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>© 2020</copyright>
+    
+	<atom:link href="https://www.henryjohnstonellis.co.uk/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.henryjohnstonellis.co.uk/intro/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.henryjohnstonellis.co.uk/intro/test/</guid>
+      <description>I am an early modern historian interested in the social and familial basis of politics, religion, and trade. I received a Ph.D. in European History from UCLA in 2015 and have taught courses on cultural and intellectual history of early modern Europe and the Atlantic.
+Research My research investigates the familial basis of the early modern capitalism through archival research on two mercantile families from Antwerp at the end of the sixteenth and beginning of the seventeenth century.</description>
+    </item>
+    
+  </channel>
+</rss>

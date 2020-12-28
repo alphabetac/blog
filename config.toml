@@ -63,15 +63,15 @@ copyright = "© 2020"
 
 [[menu.main]]
   identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  name = "articles"
+  title = "Articles"
+  url = "/articles"
 
-# [[menu.main]]
-#  identifier = "about"
-#  name = "about"
-#  title = "About"
-#  url = "/about"
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/about"
 
 # [[menu.main]]
 #  identifier = "articles"

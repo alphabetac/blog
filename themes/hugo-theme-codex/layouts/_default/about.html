@@ -1,0 +1,32 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ end }}
+
+{{ define "main" }}
+
+
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">{{.Title}}</h1>
+          </header>
+          <div class="section">
+            <div class="container max-800px">
+              <div class="content">
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+          <footer class="post__footer">
+            {{ partial "social-icons.html" .}}
+            <p>{{ replace .Site.Copyright "{year}" now.Year }}</p>
+          </footer>
+          </div>
+      </div>
+      {{ if .Params.toc }}
+
+      {{ end }}
+    </div>
+
+{{ end }}

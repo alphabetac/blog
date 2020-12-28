@@ -4,9 +4,9 @@ subtitle: "By Christ, What do We Do Now?"
 date: 2020-12-28
 slug: ""
 description: ""
-keywords: [Blog]
+keywords: [Brexit, Covid-19]
 draft: false
-tags: [Blog]
+tags: [Brexit, Covid-19]
 math: false
 toc: false
 feature_image:

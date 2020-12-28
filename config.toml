@@ -68,10 +68,10 @@ copyright = "© 2020"
   url = "/articles"
 
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
+  identifier = "intro"
+  name = "intro"
+  title = "Intro"
+  url = "/intro"
 
 # [[menu.main]]
 #  identifier = "articles"

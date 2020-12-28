@@ -7,7 +7,7 @@ keywords: [Blog, Info]
 draft: false
 tags: [Blog, Info]
 math: false
-toc: false
+toc: true
 feature_image: "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3150&q=80"
 ---
 
@@ -23,6 +23,10 @@ This presents a stark picture of the likely future of work in the United Kingdom
 
 In the face of these threats, ensuring the safety net is sufficiently robust to protect people from the instability and uncertainty of the economy post-Covid must be one of the cornerstones of any responsible economic policy. A bolstered safety net, in combination with a robust programme of job creation (such as that championed by supporters of the green new deal) would give certainty to workers and boost the economy. However, for many years reforms to the welfare system have focused on demonising welfare and its claimants. Headlines chastising 'scroungers' for living off the backs of others have only encouraged governments to adopt policies that treat welfare claimants even more harshly.
 
+## Sub-Paragraph Two
+
 It takes only a cursory glance over the fallout from Universal Credit to see in what poor regard welfare and its recipients are held by government. Five-week waits for benefits that have forced people to use food banks serve to highlight the dire need for not only reform of the system, but reform of the very concept of welfare. It is imperative to show both policy makers and voters that welfare is not the result of greed but of necessity—it is an essential mechanism by which governments provide stability to those most in need. Polly Toynbee rightly asked how governments expect those on Jobseeker's Allowance to up-skill when they are "forced by sanctions to waste their lives applying for non-existent jobs instead of getting a serious qualification?"
+
+### Sub-sub-paragraph one
 
 Whilst Covid-19 has brought appalling health and economic consequences, it has also provided a rare opportunity to break new political and economic ground. Recent research published by Daniel Edmiston et al. on the LSE British Politics and Public Policy Blog has provided evidence to show that despite the recent suspension of conditionality by the Government, over 80% of new Jobseeker's Allowance claimants are already looking for jobs. It is, therefore, imperative to reshape the false narrative around benefits to instead recognise that benefits claimants do not lack the motivation to work but instead urgently need the support of government in order to put them in the best possible place to enter or re-enter the workforce. We must, in short, stop attempting to shrink the safety net in fear and ignorance but instead widen its scope and fix the places where people fall through.

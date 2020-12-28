@@ -63,9 +63,9 @@ copyright = "© 2020"
 
 [[menu.main]]
   identifier = "blog"
-  name = "articles"
-  title = "Articles"
-  url = "/articles"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
 
 [[menu.main]]
   identifier = "intro"

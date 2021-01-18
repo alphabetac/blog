@@ -4,7 +4,8 @@
 
 {{ define "main" }}
 
-{{ $dateFormat := .Site.Params.dateFormat | default "2 Jan 2006" }}    
+{{ $loc := time.LoadLocation "Europe/London" }}
+{{ dateFormat "3:04 PM • 02 Jan 2006" (.Date.In $loc) }}
 
 <div class="post-list__container">
   <ul class="post-list">

@@ -1,12 +1,22 @@
 ---
-title: "On Introductions"
+title: "An Introduction"
 layout: about
 ---
 
-I have never been terribly fond of introductions. (I appreciate not the most compelling opening to a page titled 'about' in the navigation bar and 'on introductions' in the title, but I do believe honesty is important.)
+I conceived of this blog as a project to reflect on the world in which we live; to see the tragedies and injustices that plague every government and every society; and, to see that despite these tragedies and injustics, there remains the possibility, the very great possibility of building a better world.
 
-Introductions are infinitely more trouble than they are worth. It is as useful to me to know that you are a chartered accountant or a keen bird-watcher as it is to know that you are not an astrophysicist and can't stand the sound of Mendelssohn played at 3 in the morning. What would be considerably most useful than your average introduction where the introducer lists off their name, age, date of birth and profession, would be knowing whether or not they are interesting. Imagine the energy that would be saved in trying to ascertain this crucial piece of information! To my enduring disappointment, people rarely introduce themselves as "Ms. Jessica Wolverhampton, oh and by the way I am an unutterable bore". If they did, we would surely be saved the trouble of wasting unimaginable amounts of time uncovering the information by ourselves.
+The conductor, Benjamin Zander, offers a vision of possibility that is expressed perhaps most eloquently in the well-known story of the two shoe sellers:
 
-Putting into practice our new introduction philosophy then, I promise I'm not going to tell you what I do, who I am, or anything like that (not that you wanted to know anyway). I'm not a magician, florist, organist, undertaker, or plumber — as to tell you who I am. I've never wired a plug, merged or acquired, advised or instructed. But I shall leave it up to you (and don't trouble yourself to tell me) whether or not I am interesting.
+> *A shoe factory sends two marketing scouts to a region of Africa to study the prospects for expanding business. One sends back a telegram saying,* "Situation Hopeless. No one wears shoes." *The other writes back triumphantly,* "Glorious Business Opportunity. They have no shoes!"
 
-Henry.
+We can be in no doubt that there are tremendous challenges facing the globe: the climate crisis, violence against women, slavery, children dying of easily preventable disease, and so much more that cannot fit the short length of this page. Our response cannot be one of resignation but of determination. A determination to end injustice, to end poverty, to protect women and children from abuse, to ensure the rights of workers.
+
+As a final note, you might be wondering why I have named this blog "eudaimonia". *eudaimonia* is a concept from Aristotelian ethics that best translates as "human flourishing" (though others have simply called it "happiness"). Aristotle wrote:
+
+> *for this [*eudaimonia*] we choose always for itself and never for the sake of something else, but honour, pleasure, reason, and every virtue we choose indeed for themselves, but we choose them also for the sake of human flourishing, judging that through them we shall be happy.*
+
+If in our lives we are to value our contributions according to how fully we enable our own and others' flourishing, then the path we must take in our lives is clear. It is one that embraces the challenge that faces us and strives to build a better world. I hope that you will join me in this exciting project and I very much look forward to the change we will bring about.
+
+Until Next Time,
+
+Henry

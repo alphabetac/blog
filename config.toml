@@ -2,9 +2,9 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "Henry Johnston-Ellis"
+title = "the eudaimonia"
 languageCode = "en-uk"
-baseURL = "https://www.henryjohnstonellis.co.uk/"
+baseURL = "https://www.theeudaimonia.co.uk/"
 copyright = "© 2020"
 
 # Optional params

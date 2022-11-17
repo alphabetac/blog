@@ -3,60 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/</loc>
+    <loc>https://www.theeudaimonia.co.uk/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/blog/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/blog/dispensing/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/blog/blue_georgia_red_wall/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/tags/british-politics/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/tags/fabian/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/tags/labour/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/tags/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theeudaimonia.co.uk/tags/brexit/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/blog/</loc>
+    <loc>https://www.theeudaimonia.co.uk/tags/covid-19/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/tags/brexit/</loc>
+    <loc>https://www.theeudaimonia.co.uk/blog/brexit-reflections/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/tags/covid-19/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.henryjohnstonellis.co.uk/blog/brexit-reflections/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.henryjohnstonellis.co.uk/tags/</loc>
-    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.henryjohnstonellis.co.uk/tags/austerity/</loc>
+    <loc>https://www.theeudaimonia.co.uk/tags/austerity/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/tags/benefits/</loc>
+    <loc>https://www.theeudaimonia.co.uk/tags/benefits/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/blog/rethinking-benefits/</loc>
+    <loc>https://www.theeudaimonia.co.uk/blog/rethinking-benefits/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/intro/test/</loc>
+    <loc>https://www.theeudaimonia.co.uk/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.henryjohnstonellis.co.uk/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.henryjohnstonellis.co.uk/intro/</loc>
+    <loc>https://www.theeudaimonia.co.uk/categories/</loc>
   </url>
   
 </urlset>

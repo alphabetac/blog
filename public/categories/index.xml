@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Henry Johnston-Ellis</title>
-    <link>https://www.henryjohnstonellis.co.uk/categories/</link>
-    <description>Recent content in Categories on Henry Johnston-Ellis</description>
+    <title>Categories on the eudaimonia</title>
+    <link>https://www.theeudaimonia.co.uk/categories/</link>
+    <description>Recent content in Categories on the eudaimonia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>© 2020</copyright>
     
-	<atom:link href="https://www.henryjohnstonellis.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theeudaimonia.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

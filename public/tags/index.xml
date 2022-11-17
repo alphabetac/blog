@@ -1,50 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Henry Johnston-Ellis</title>
-    <link>https://www.henryjohnstonellis.co.uk/tags/</link>
-    <description>Recent content in Tags on Henry Johnston-Ellis</description>
+    <title>Tags on the eudaimonia</title>
+    <link>https://www.theeudaimonia.co.uk/tags/</link>
+    <description>Recent content in Tags on the eudaimonia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>© 2020</copyright>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.henryjohnstonellis.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theeudaimonia.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>british politics</title>
+      <link>https://www.theeudaimonia.co.uk/tags/british-politics/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.theeudaimonia.co.uk/tags/british-politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fabian</title>
+      <link>https://www.theeudaimonia.co.uk/tags/fabian/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.theeudaimonia.co.uk/tags/fabian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>labour</title>
+      <link>https://www.theeudaimonia.co.uk/tags/labour/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.theeudaimonia.co.uk/tags/labour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brexit</title>
-      <link>https://www.henryjohnstonellis.co.uk/tags/brexit/</link>
+      <link>https://www.theeudaimonia.co.uk/tags/brexit/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.henryjohnstonellis.co.uk/tags/brexit/</guid>
+      <guid>https://www.theeudaimonia.co.uk/tags/brexit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covid-19</title>
-      <link>https://www.henryjohnstonellis.co.uk/tags/covid-19/</link>
+      <link>https://www.theeudaimonia.co.uk/tags/covid-19/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.henryjohnstonellis.co.uk/tags/covid-19/</guid>
+      <guid>https://www.theeudaimonia.co.uk/tags/covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Austerity</title>
-      <link>https://www.henryjohnstonellis.co.uk/tags/austerity/</link>
+      <link>https://www.theeudaimonia.co.uk/tags/austerity/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.henryjohnstonellis.co.uk/tags/austerity/</guid>
+      <guid>https://www.theeudaimonia.co.uk/tags/austerity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benefits</title>
-      <link>https://www.henryjohnstonellis.co.uk/tags/benefits/</link>
+      <link>https://www.theeudaimonia.co.uk/tags/benefits/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.henryjohnstonellis.co.uk/tags/benefits/</guid>
+      <guid>https://www.theeudaimonia.co.uk/tags/benefits/</guid>
       <description></description>
     </item>
     
